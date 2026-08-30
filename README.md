@@ -122,3 +122,9 @@ Instantly inspect 3D meshes of clothing, hair, objects, poses, presets, and slid
 
 Mac and Linux support is planned...
 -----
+<a href="https://boosty.to/zska">
+  <img src="https://img.shields.io/badge/Boosty-f15f2c?style=for-the-badge&logo=boosty&logoColor=white" height="40" alt="Boosty" />
+</a>
+<a href="https://www.patreon.com/s4viewer">
+  <img src="https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white" height="40" alt="Patreon" />
+</a>
