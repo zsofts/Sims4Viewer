@@ -1,8 +1,7 @@
+
 Sims 4 Viewer - Windows 10\11 desktop application built for The Sims 4 players, custom content (CC) creators, and modders.
-<img width="1911" height="404" alt="2" src="https://github.com/user-attachments/assets/383ca0db-b1f4-4c83-89d6-d20598f0b442" />
-
-
-It enables you to instantly inspect 3D meshes of clothing, hair, objects, poses, presets, and sliders, edit STBL translations, and organize gigabytes of custom content directly from .package files without launching the game!
+<img width="1911" height="404" alt="2_1" src="https://github.com/user-attachments/assets/b44f4360-bb55-43ec-a7ae-e78a42228f51" />
+Instantly inspect 3D meshes of clothing, hair, objects, poses, presets, and sliders, edit STBL translations, and organize gigabytes of custom content directly from .package files without launching the game!
 
 -----
 
@@ -22,9 +21,6 @@ It enables you to instantly inspect 3D meshes of clothing, hair, objects, poses,
 
 • 🎨 CREATIVE STUDIO (Tattoo Studio & Decal Projector): 2D multi-layer canvas + real-time planar and cylindrical 3D projection onto the mannequin with automatic texture baking.
 
-
------
-
 ⚡ Detailed description: 
 
 1. 🎥 INTERACTIVE 3D VIEWPORT ENGINE (CAS & BUILDBUY)
@@ -43,6 +39,7 @@ It enables you to instantly inspect 3D meshes of clothing, hair, objects, poses,
 
    • Camera presets (Body, Face, Upper Body, Lower Body, Shoes, Top-down), free OrbitControls, wireframe overlay, ground grid, runway podium, and LOD0–LOD2 switcher.
 
+<img width="1534" height="821" alt="6_1" src="https://github.com/user-attachments/assets/8a0cec6d-fa76-4f7d-bd8c-28835f472148" />
 
 
 2. 🕺 POSES, BODY PRESETS & CAS SLIDERS
@@ -85,7 +82,8 @@ It enables you to instantly inspect 3D meshes of clothing, hair, objects, poses,
    • 2D Layer Canvas: compose body art with full layer controls, scale, rotation, opacity, and multi-step Undo/Redo history.
    
    • Real-Time 3D Decal Projection: project artwork onto the 3D mannequin using planar or cylindrical projection with instant baking to texture sheets.
-   
+
+   <img width="1919" height="1027" alt="7" src="https://github.com/user-attachments/assets/f3021405-f213-4cec-bffc-2d7623c6a1ef" />
 
 6. 📦 MERGED PACKAGE INSPECTOR & BULK MERGE ENGINE
  
@@ -94,9 +92,11 @@ It enables you to instantly inspect 3D meshes of clothing, hair, objects, poses,
    • Bulk Merge & Optimization: merge hundreds of separate CC files into single optimized packages to speed up Sims 4 game load times.
    
    • Package Unpacker: extract individual mods from merged packs back into standalone files.
-   
 
-7. 🎨 VISUAL THEMES & INTERNATIONALIZATION
+   <img width="1907" height="1028" alt="8" src="https://github.com/user-attachments/assets/107330a3-2a33-4082-8c0f-b4b467efcbb4" />
+
+
+8. 🎨 VISUAL THEMES & INTERNATIONALIZATION
  
    • Bilingual interface (English and Russian) + visual language editor for custom translations.
    
