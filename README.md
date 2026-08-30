@@ -1,5 +1,6 @@
 Sims 4 Viewer - Windows 10\11 desktop application built for The Sims 4 players, custom content (CC) creators, and modders.
-![Uploading 2.png…]()
+<img width="1911" height="404" alt="2" src="https://github.com/user-attachments/assets/383ca0db-b1f4-4c83-89d6-d20598f0b442" />
+
 
 It enables you to instantly inspect 3D meshes of clothing, hair, objects, poses, presets, and sliders, edit STBL translations, and organize gigabytes of custom content directly from .package files without launching the game!
 
