@@ -1,7 +1,7 @@
 <p align="center"><img width="64" height="64" alt="ico" src="https://github.com/user-attachments/assets/8eb41f8b-cc4c-4f60-afe0-c32ab909ee71" /></p>
-<h2 align="center">SIMS 4 VIEWER</h2><b>Windows 10\11 desktop application built for The Sims 4 players, custom content creators, and modders.</b>
+<h2 align="center">SIMS 4 VIEWER</h2><b>Windows 10\11 desktop application built for The Sims 4 players, custom content creators and modders.</b>
 <img width="1911" height="404" alt="2_1" src="https://github.com/user-attachments/assets/b44f4360-bb55-43ec-a7ae-e78a42228f51" />
-<b>Instantly inspect 3D meshes of clothing, hair, objects, poses, presets, and sliders, edit STBL translations, and organize gigabytes of custom content directly from .package files without launching the game!</b>
+<b>Instantly inspect 3D meshes of clothing, hair, objects, poses, presets, sliders, edit STBL translations and organize gigabytes of custom content directly from .package files without launching the game!</b>
 
 -----
 
@@ -17,7 +17,7 @@
 
 • 🌐 STBL String Table & Translation Editor: open, edit, and save translations directly inside .package files with multi-language tabs, comparison mode, and hash search.
 
-• 🗂️ Smart Mods Folder Organizer: fast directory tree, global search, 1-click mod disable\enable for files and folders, and direct Sims 4 Studio launch.
+• 🗂️ Smart Mods Folder Organizer: fast directory tree, global search, 1-click mod disable\enable for files and folders, direct Sims 4 Studio launch.
 
 • 🎨 CREATIVE STUDIO (Tattoo Studio & Decal Projector): 2D multi-layer canvas + real-time planar and cylindrical 3D projection onto the mannequin with automatic texture baking.
 
@@ -27,17 +27,17 @@
 
    • High-performance 3D mesh rendering directly from .package files (GEOM / RCOL).
 
-   • Full CAS category support: hairstyles, hats, tops, bottoms, full-body outfits, footwear, and accessories (earrings, facial piercings, rings, bracelets), tattoos, makeup, scars, etc.
+   • Full CAS category support: hairstyles, hats, tops, bottoms, full-body outfits, footwear, accessories (earrings, facial piercings, rings, bracelets), tattoos, makeup, scars, etc.
 
    • Complete Build/Buy mode object inspection: furniture, lighting, decor, walls, and flooring.
 
-   • Full PBR Material Shaders: Diffuse textures, Normal Maps, Specular Maps (gloss/shine), Ambient Occlusion (Shadow Maps), and Emission.
+   • Full PBR Material Shaders: Diffuse textures, Normal Maps, Specular Maps (gloss/shine), Ambient Occlusion (Shadow Maps) and Emission.
 
-   • Smart Auto UV Shift Fix: automated scaling and offset alignment for Normal and Specular maps to eliminate stretching across hair, accessories, and shoes.
+   • Smart Auto UV Shift Fix: automated scaling and offset alignment for Normal and Specular maps to eliminate stretching across hair, accessories and shoes.
 
    • 4 Studio lighting presets + brightness intensity slider (-100% to +100%) + custom background HEX color picker.
 
-   • Camera presets (Body, Face, Upper Body, Lower Body, Shoes, Top-down), free OrbitControls, wireframe overlay, ground grid, runway podium, and LOD0–LOD2 switcher.
+   • Camera presets (Body, Face, Upper Body, Lower Body, Shoes, Top-down), free OrbitControls, wireframe overlay, ground grid, runway podium and LOD0–LOD2 switcher.
 
 <img width="1534" height="821" alt="6_1" src="https://github.com/user-attachments/assets/8a0cec6d-fa76-4f7d-bd8c-28835f472148" />
 
@@ -46,7 +46,7 @@
  
    • Pose Viewer: automatic pose mod identification, clip manifest browser, display thumbnail previews and descriptions for each pose.
    
-   • Face & Body Preset Inspector: visual morph inspection for body shape, nose, lip, eye, ear, and jaw presets.
+   • Face & Body Preset Inspector: visual morph inspection for body shape, nose, lip, eye, ear, jaw presets.
    
    • CAS Slider Testing: interactive 3D evaluation of custom body and facial sliders, testing deformation limits and vertex offsets, interactive deformation slider (0% to 100%).
 <img width="1917" height="814" alt="9" src="https://github.com/user-attachments/assets/1ee28758-3e03-44e8-8ad5-54410623e647" />
@@ -56,11 +56,11 @@
  
    • Direct in-package localization: read and edit STBL string tables inside .package files without external tools.
    
-   • Multi-Language Tabs: easily switch between available languages, add missing language tables, and save modifications back to the package.
+   • Multi-Language Tabs: easily switch between available languages, add missing language tables and save modifications back to the package.
    
    • Comparison Mode: side-by-side view comparing translated strings against original baseline languages.
    
-   • Search & Hash Tools: search by text or 32-bit/64-bit string hashes, insert new entries, and export localization data to JSON.
+   • Search & Hash Tools: search by text or 32-bit/64-bit string hashes, insert new entries and export localization data to JSON.
 
    
 
@@ -72,14 +72,14 @@
    
    • Automated Content Badges: 3DMesh, Object, Texture, Script (.ts4script), Pose, Preset, Slider, XML Tuning, and STBL.
    
-   • Batch Operations: bulk selection, multi-file deletion, and folder relocation.
+   • Batch Operations: bulk selection, multi-file deletion and folder relocation.
    
    • Sims 4 Studio Integration: open any selected .package in S4S with one click.
 
 
 5. 🎚️ CREATIVE STUDIO
  
-   • 2D Layer Canvas: compose body art with full layer controls, scale, rotation, opacity, and multi-step Undo/Redo history.
+   • 2D Layer Canvas: compose body art with full layer controls, scale, rotation, opacity, multi-step Undo/Redo history.
    
    • Real-Time 3D Decal Projection: project artwork onto the 3D mannequin using planar or cylindrical projection with instant baking to texture sheets.
 
