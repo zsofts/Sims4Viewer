@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://boosty.to/zska" target="_blank">
+    <img src="icons/boosty.svg" width="48" height="48" alt="Boosty" />
+  </a>
+  &nbsp;
+  <a href="https://www.patreon.com/s4viewer" target="_blank">
+    <img src="icons/patreon.svg" width="48" height="48" alt="Patreon" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zsofts/Sims4Viewer" target="_blank">
+    <img src="icons/github.svg" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://s4viewer.tumblr.com/" target="_blank">
+    <img src="icons/tumblr.svg" width="48" height="48" alt="Tumblr" />
+  </a>
+</p>
 <p align="center"><img width="64" height="64" alt="ico" src="https://github.com/user-attachments/assets/8eb41f8b-cc4c-4f60-afe0-c32ab909ee71" /></p>
 <h2 align="center">SIMS 4 VIEWER</h2><b>Windows 10\11 desktop application built for The Sims 4 players, custom content creators and modders.</b>
 <img width="1911" height="404" alt="2_1" src="https://github.com/user-attachments/assets/b44f4360-bb55-43ec-a7ae-e78a42228f51" />
