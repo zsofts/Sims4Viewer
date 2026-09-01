@@ -123,9 +123,20 @@
 
 Mac and Linux support is planned...
 -----
-<a href="https://boosty.to/zska">
-  <img src="https://img.shields.io/badge/Boosty-f15f2c?style=for-the-badge&logo=boosty&logoColor=white" height="40" alt="Boosty" />
-</a>
-<a href="https://www.patreon.com/s4viewer">
-  <img src="https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white" height="40" alt="Patreon" />
-</a>
+<p align="center">
+  <a href="https://boosty.to/zska" target="_blank">
+    <img src="icons/boosty.svg" width="48" height="48" alt="Boosty" />
+  </a>
+  &nbsp;
+  <a href="https://www.patreon.com/s4viewer" target="_blank">
+    <img src="icons/patreon.svg" width="48" height="48" alt="Patreon" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/zsofts/Sims4Viewer" target="_blank">
+    <img src="icons/github.svg" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://s4viewer.tumblr.com/" target="_blank">
+    <img src="icons/tumblr.svg" width="48" height="48" alt="Tumblr" />
+  </a>
+</p>
