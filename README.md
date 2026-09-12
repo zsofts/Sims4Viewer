@@ -121,7 +121,24 @@
    
    • Power-user keyboard shortcuts for lightning-fast workflows.
    
+   <img width="1912" height="1029" alt="11" src="https://github.com/user-attachments/assets/ed6abce8-8034-4022-9e7d-8c71f8c99b4a" />
 
+10. 👨‍👩‍👧‍👦 TRAY HOUSEHOLD INSPECTOR & WARDROBE CC AUDIT
+    
+  • Direct parsing of binary Tray household files (.householdbinary, .trayitem, .sgi, .hhi) without running the game.
+  
+  • Household overview card: family cover thumbnail, creator name, description, and full roster of Sims with age groups and gender.
+  
+  • Interactive 3D mannequin for each Sim with real-time fitting of equipped wardrobe items (hair, tops, bottoms, shoes, accessories, sliders, skin details) and 1-click wear toggle.
+  
+  • Full outfit category browser (Everyday, Formal, Athletic, Sleep, Party, Swimwear, Hot & Cold Weather) with outfit index switching.
+  
+  • Comprehensive CC audit: disk status for every equipped asset (Installed in Mods, Base Game, Game DLC, Missing from Mods), hexadecimal Instance ID, file size, real package name, and nested .merge pack submod resolution.
+  
+  • Aggregated household CC table: family-wide mod list with Sim wearer indicators, automated duplicate ID detection, and 1-click export of the household with all active .package files into a clean ZIP archive.
+<img width="1907" height="1022" alt="12" src="https://github.com/user-attachments/assets/0e52d662-64ba-4f9f-bacb-ab6b1a01de7e" />
+
+    
 💡Standalone Operation: The Sims 4 is not required to view standalone .package files, but needed for live Mods folder integration.
 
 -----
