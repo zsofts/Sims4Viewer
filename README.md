@@ -139,10 +139,11 @@
     • Aggregated household CC table: family-wide mod list with Sim wearer indicators, automated duplicate ID detection, and 1-click export of the household with all active .package files into a clean ZIP archive.
     
     <img width="1907" height="1022" alt="12" src="https://github.com/user-attachments/assets/0e52d662-64ba-4f9f-bacb-ab6b1a01de7e" />
-<img width="1916" height="1026" alt="17" src="https://github.com/user-attachments/assets/3b11e773-6027-4be7-9129-23be3f202cae" />
+
 11. 🏡 TRAY LOTS & ROOMS
     • Lot & Room File Parser Direct reading of binary .blueprint, .room, .trayitem, .bpi, and .rmi files. Extracts venue types (Residential, Bar, Gym, Cafe, Park, Room, etc.), lot dimensions (e.g. 20×15, 30×20, 50×50),          furnished price, architecture value, bedroom/bathroom count, creator, and description with hashtags.
     • Lot CC Audit, Duplicate Detector & ZIP Export Identifies all custom content used throughout the build: furniture, decor, wall coverings, floor patterns, and fences. Mod status resolution (Installed, Base Game, DLC,        Missing from Mods), duplicate detection, and 1-click packaging of tray files and used .package mods into a ready-to-share ZIP.
+    <img width="1916" height="1026" alt="17" src="https://github.com/user-attachments/assets/3b11e773-6027-4be7-9129-23be3f202cae" />
 💡Standalone Operation: The Sims 4 is not required to view standalone .package files, but needed for live Mods folder integration.
 
 -----
