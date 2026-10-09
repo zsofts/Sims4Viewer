@@ -147,6 +147,31 @@
     • Lot CC Audit, Duplicate Detector & ZIP Export Identifies all custom content used throughout the build: furniture, decor, wall coverings, floor patterns, and fences. Mod status resolution (Installed, Base Game, DLC,        Missing from Mods), duplicate detection, and 1-click packaging of tray files and used .package mods into a ready-to-share ZIP.
     
     <img width="1916" height="1026" alt="17" src="https://github.com/user-attachments/assets/3b11e773-6027-4be7-9129-23be3f202cae" />
+
+11. 💾 Saves Viewer
+        
+    • Direct .save File Parsing: lightning-fast parsing without launching the game, powered by persistent SQLite caching (10–20 ms load times on repeat views).
+    
+    • Alpha-Masked Transparent Family Covers: automated alpha mask extraction (ALFA + PNG from 0x14 resource) providing razor-sharp Sim silhouettes without white borders or halos.
+    
+    • Save Slot Overview: slot ID, save date, file size, backup version count, total households, population, worlds, lots, and equipped CC metrics.
+    
+    • Active Household Roster: household budget in Simoleons (§), family bio, and detailed Sim cards with age groups, gender, occult species and equipped CAS counters.
+    
+    • Comprehensive Used CC Audit (CAS & Build/Buy): full custom content tracking across the whole save — every Sim outfit in every household and every placed object/furniture item across all lots in all worlds.
+    
+    • Interactive Mod Inspection: click any CAS mod to reveal an interactive grid of Sims wearing that item; click any Build/Buy mod to see the exact lots and worlds where the furniture is placed. Full type filters (CAS / Build/Buy) and status filters (Installed, Missing, Duplicates).
+    
+    • Interactive Worlds & Lots Browser: all game worlds (Residential, Vacation, Secret/Career) with official lore descriptions and demographics; lot inspection with authentic extracted in-game lot screenshots, venue types, bedrooms/bathrooms, resident families, and builder credits.
+    
+    • All Households Accordion: browse all households (played, active, homeless townies) with budget, home lot addresses, and full Sim rosters.
+    
+    • In-Game Photos, Selfies & Canvas Paintings: automated extraction of Sim camera photographs, selfies, paintings, and easel canvas paintings with resolution badges, lightbox zoom, and direct image export to disk.
+    
+    • Version History Timeline & Safe Rollback: chronological timeline of save snapshots (.save and .ver0 through .ver4), 1-click ZIP backup of the whole save slot.
+
+    <img width="1914" height="1027" alt="18" src="https://github.com/user-attachments/assets/eb7cca3c-8e61-4757-a555-7b381723f6a6" />
+
 💡Standalone Operation: The Sims 4 is not required to view standalone .package files, but needed for live Mods folder integration.
 
 -----
