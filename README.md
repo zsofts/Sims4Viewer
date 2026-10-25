@@ -36,6 +36,14 @@
 
 • 🗂️ Smart Mods Folder Organizer: fast directory tree, global search, 1-click mod disable\enable for files and folders, direct Sims 4 Studio launch.
 
+• 👨‍👩‍👧‍👦 Tray Household Inspector & CC Audit: inspect Tray families without launching the game, browse Sim portraits, roster, and all outfit categories, interactive 3D mannequin fitting with worn CC.
+
+• 🏡 Tray Lots & Rooms Inspector: direct parsing of .blueprint, .room, .bpi, .rmi, and .trayitem files without launching the game. 
+
+• 💾 The Sims 4 Saves Viewer & Deep Mod Audit: direct parsing of .save files without launching the game.
+
+• 🩺 Mod Diagnostics & Health Scanner: comprehensive deep scan of the Mods folder for duplicate files & resources (including submods inside Merged packs).
+
 • 🎨 CREATIVE STUDIO (Tattoo Studio & Decal Projector): 2D multi-layer canvas + real-time planar and cylindrical 3D projection onto the mannequin with automatic texture baking.
 
 ⚡ Detailed description: 
