@@ -172,6 +172,24 @@
 
     <img width="1914" height="1027" alt="18" src="https://github.com/user-attachments/assets/eb7cca3c-8e61-4757-a555-7b381723f6a6" />
 
+12. 🩺 MOD DIAGNOSTICS, CONFLICT SCANNER
+    • Deep multi-threaded Mods folder scanning with real-time progress indicators, scan duration measurement, and fast SQLite caching.
+
+    • Duplicate Detection: exact SHA-256 file matching and resource-level duplicate detection, deep cross-matching of standalone mods against nested submods inside Merged packs with dual-delete prevention guards.
+
+    • Resource ID Conflict Scanner: detects conflicting CAS Part, OBJD, and Tuning XML Instance IDs, differentiates unintended clashes from intentional default replacements (overrides), and highlights colliding pairs with direct jump to 3D view.
+
+    • Missing Mesh & Texture Auditor: flags recolors lacking base 3D models (Original Mesh Required) and broken Diffuse textures; integrated 1-click 'Search Mesh' web lookup to quickly locate author sources.
+
+    • Script (.ts4script) & Corrupted Package Analysis: audits Python bytecode for conflicting method hooks, verifies directory nesting limits (scripts must not exceed 1 subfolder level), and isolates physically corrupt DBPF archives or empty files.
+
+    • Junk & Non-TS4 File Cleaner: locates legacy Sims 2 / Sims 3 files, leftover archives (.zip, .rar, .7z), logs, readmes, and image files with customizable per-category filter chips.
+
+    • Data Safety & Batch Operations: persistent Whitelist to ignore benign overrides, automatic file backups in a dedicated safety directory prior to removal, multi-file batch deletion with strict confirmation modals, and exportable diagnostics reports.
+
+    <img width="1386" height="911" alt="19" src="https://github.com/user-attachments/assets/5ff335fd-a4ac-4171-bfb3-c740e34fdcbc" />
+
+
 💡Standalone Operation: The Sims 4 is not required to view standalone .package files, but needed for live Mods folder integration.
 
 -----
