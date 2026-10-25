@@ -173,6 +173,7 @@
     <img width="1914" height="1027" alt="18" src="https://github.com/user-attachments/assets/eb7cca3c-8e61-4757-a555-7b381723f6a6" />
 
 12. 🩺 MOD DIAGNOSTICS, CONFLICT SCANNER
+    
     • Deep multi-threaded Mods folder scanning with real-time progress indicators, scan duration measurement, and fast SQLite caching.
 
     • Duplicate Detection: exact SHA-256 file matching and resource-level duplicate detection, deep cross-matching of standalone mods against nested submods inside Merged packs with dual-delete prevention guards.
