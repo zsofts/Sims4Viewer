@@ -198,6 +198,32 @@
 
     <img width="1386" height="911" alt="19" src="https://github.com/user-attachments/assets/5ff335fd-a4ac-4171-bfb3-c740e34fdcbc" />
 
+13. 📐 HIGH-POLY MODS FINDER & PERFORMANCE AUDIT
+    
+    • Standalone and merged package scanning with accurate extraction of polygon (Tris) and vertex counts across LOD0–LOD3.
+    
+    • Color-coded risk assessment: safe (green), elevated load (yellow), extreme overpoly (red).
+    
+    • Built-in interactive polygon budget guidelines for CAS (hair, clothing, shoes, accessories) and Build/Buy objects.
+    
+    • Instant live 3D viewport inspection of flagged mods and nested merge submods without opening the game.
+    
+    • Quick 1-click mod disabling (.disabled extension) and direct File Explorer reveal.
+
+    <img width="1875" height="984" alt="21" src="https://github.com/user-attachments/assets/d642a153-8a3b-4b5c-8ef7-39ef89b36b93" />
+    
+14. 💎 THE SIMS 4 GAME CONFIGURATIONS (PLUMBOB, CAMERA & ENGINE)
+    
+    • Direct visual editing of game .ini files with automatic safety backups (.bak) and 1-click reset.
+    
+    • Plumbob Configuration (Default.ini): completely hide or disable the plumbob crystal above Sims for machinima and clean screenshots, adjust scale, opacity, and custom emotion/mood RGB colors.
+    
+    • Cinematic Free Camera (VideoCamera.ini): removes height restrictions in Tab mode (smooth floor-to-sky flight), customizable FOV zoom, flight speed, and camera damping.
+    
+    • Zero-risk safety: 1-click instant restore to EA factory default settings at any time.
+
+    <img width="949" height="853" alt="22" src="https://github.com/user-attachments/assets/4beafed4-1f98-4196-a044-9f976bf2a3bd" />
+
 
 💡Standalone Operation: The Sims 4 is not required to view standalone .package files, but needed for live Mods folder integration.
 
