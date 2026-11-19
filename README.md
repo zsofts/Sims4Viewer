@@ -223,7 +223,16 @@
     • Zero-risk safety: 1-click instant restore to EA factory default settings at any time.
 
     <img width="949" height="853" alt="22" src="https://github.com/user-attachments/assets/4beafed4-1f98-4196-a044-9f976bf2a3bd" />
+    
+15. 📝 Action History & Built-in Notes
+    
+    • Action History Log: tracks all mod and folder operations (Merge, delete, rename, enable/disable), favorites, cache cleanup, Tray household & lot edits, and all Save file actions.
+    
+    • Category & date filtering, search and full .txt report export.
+    
+    • Built-in Notes: slide-out drawer for mod checklists, build ideas, and links with search, clipboard copy, and .txt / .json export & import.
 
+    <img width="1916" height="1030" alt="23" src="https://github.com/user-attachments/assets/f47b9c0a-5417-4aa0-9163-4e70ff16a630" />
 
 💡Standalone Operation: The Sims 4 is not required to view standalone .package files, but needed for live Mods folder integration.
 
