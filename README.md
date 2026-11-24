@@ -178,7 +178,7 @@
     
     • Version History Timeline & Safe Rollback: chronological timeline of save snapshots (.save and .ver0 through .ver4), 1-click ZIP backup of the whole save slot.
 
-    <img width="1914" height="1027" alt="18" src="https://github.com/user-attachments/assets/eb7cca3c-8e61-4757-a555-7b381723f6a6" />
+    <img width="1914" height="993" alt="18" src="https://github.com/user-attachments/assets/22300541-905f-4266-b31b-73f3ee6a453b" />
 
 12. 🩺 MOD DIAGNOSTICS, CONFLICT SCANNER
     
