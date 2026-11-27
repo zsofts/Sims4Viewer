@@ -232,7 +232,7 @@
     
     • Built-in Notes: slide-out drawer for mod checklists, build ideas, and links with search, clipboard copy, and .txt / .json export & import.
 
-    <img width="1916" height="1030" alt="23" src="https://github.com/user-attachments/assets/f47b9c0a-5417-4aa0-9163-4e70ff16a630" />
+    <img width="1917" height="1026" alt="23" src="https://github.com/user-attachments/assets/2906b45d-5893-4657-941c-5a09eb0ec027" />
 
 💡Standalone Operation: The Sims 4 is not required to view standalone .package files, but needed for live Mods folder integration.
 
